@@ -3,7 +3,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/603/603201.png" alt="sql" height="150" width="150">
   </a>
 </p>
-  <h1 align="center">Learn SQL Basics for Data Science</h1>
+  <h1 align="center">SQL for Data Science</h1>
 </div>
 <br>
  
