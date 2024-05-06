@@ -7,11 +7,6 @@
 </div>
 <br>
  
-This repository contains my studies of the SQL language, for that I did the Learn SQL Basics for Data Science specialization, available on Coursera, and some complementary materials.
-
-### About the Specialization:
-
-#### There are 04 Courses in this [Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science):
 
 01. [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science?specialization=learn-sql-basics-data-science)
 02. [Data Wrangling, Analysis and AB Testing with SQL](https://www.coursera.org/learn/data-wrangling-analysis-abtesting?specialization=learn-sql-basics-data-science)
