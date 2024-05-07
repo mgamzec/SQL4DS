@@ -1,28 +1,5 @@
 -- Databricks notebook source
--- MAGIC
--- MAGIC %md-sandbox
--- MAGIC
--- MAGIC <div style="text-align: center; line-height: 0; padding-top: 9px;">
--- MAGIC   <img src="https://databricks.com/wp-content/uploads/2018/03/db-academy-rgb-1200px.png" alt="Databricks Learning" style="width: 600px">
--- MAGIC </div>
 
--- COMMAND ----------
-
--- MAGIC %md
--- MAGIC # 1.4 SQL in Notebooks
--- MAGIC
--- MAGIC ## ![Spark Logo Tiny](https://files.training.databricks.com/images/105/logo_spark_tiny.png) In this lesson you:<br>
--- MAGIC * Create a database and table
--- MAGIC * Compute aggregate statistics against a dataset 
--- MAGIC * Create visualizations
-
--- COMMAND ----------
-
--- MAGIC %md
--- MAGIC ### Mounting Data
--- MAGIC
--- MAGIC We are going to run a Classroom Setup script to mount the data we will be using throughout the class.
--- MAGIC
 -- MAGIC A [mount](https://docs.databricks.com/spark/latest/data-sources/aws/amazon-s3.html#mount-an-s3-bucket) is a pointer to a remote storage location (typically AWS or Azure), so we can access that data from within Databricks.
 
 -- COMMAND ----------
